@@ -1,1 +1,2 @@
-# ncs-canada
+# sample-news-app
+sample news app
